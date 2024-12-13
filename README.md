@@ -1,4 +1,5 @@
-# Contenu de l'infographie :
+# Contenu de l'infographie:
+pour le projet :
 Ligne Bresenham (0) : Représentation d'une ligne utilisant l'algorithme de Bresenham, optimisé pour tracer des lignes entières entre deux points.
 Ligne polynomiale (1) : Tracé d'une ligne à l'aide d'une fonction polynomiale, permettant de créer des courbes lisses.
 Translation horizontale (2) : Déplacement d'une forme géométrique dans la direction horizontale sur un axe donné.
